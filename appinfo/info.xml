@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>threemfpreview</id>
+    <name>3MF Preview</name>
+    <summary>Thumbnails for .3mf files</summary>
+    <description>Shows the thumbnail embedded in .3mf files (Bambu Studio, PrusaSlicer, Cura...) as the file preview.</description>
+    <version>0.1.0</version>
+    <licence>agpl</licence>
+    <author>Nelson Nieto</author>
+    <namespace>ThreemfPreview</namespace>
+    <category>files</category>
+    <dependencies>
+        <nextcloud min-version="30" max-version="34"/>
+    </dependencies>
+</info>
