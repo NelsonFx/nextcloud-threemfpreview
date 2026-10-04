@@ -53,6 +53,11 @@ and restart the Nextcloud client.
 occ app:disable threemfpreview
 ```
 
+## Authors
+
+- Nelson Nieto
+- Claude (Anthropic), co-author
+
 ## License
 
 AGPL-3.0-or-later. See `LICENSE`.
